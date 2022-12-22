@@ -1,0 +1,7 @@
+{
+  "Name": "demo server",
+  "Host": "127.0.0.1",
+  "TcpPort": 8081,
+  "Version": "0.4",
+  "WorkerPoolSize": 16
+}
